@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+# Local-only personas you don't want to publish
+*.local.md
